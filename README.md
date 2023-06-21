@@ -3,8 +3,8 @@
 
 ***Conteúdo da Aula:***
 
-[Exercício 1.](main.java)
-[Exercício 2.](main2.java)
+1. [Animal.](Animal.java)
+2. [Programa.](Programa.java)
 
 <!-- Informações -->
 ## &#8505; Informações
